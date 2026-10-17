@@ -5,4 +5,5 @@
 
  DSH 插件 · Windows · 单机游戏自动化
 
-使用时会需https://github.com/yk4464/black-souls-mcp工具（不装会启用截图识别功能）
+使用时会需https://github.com/yk4464/black-souls-mcp
+（不装会启用截图识别功能）
